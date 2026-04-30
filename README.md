@@ -1,61 +1,48 @@
 # Prompt-Engineering-Workshops
 
+A workshop-ready repository of practical prompt engineering materials, with an emphasis on professional service use cases (especially CPA and accounting workflows).
+
 Repository URL:
 https://github.com/tswarmLCCC/Prompt-Engineering-Workshops
 
-## Quick Access QR Code
+## What This Repo Contains
 
-Scan this QR code to open the repository URL directly:
+This repository is organized into two core content groups:
+
+- `reference/`: Foundational concepts and broad workflow ideas for using LLMs effectively.
+- `example_workshops/`: Applied, role-specific examples that translate prompt techniques into day-to-day CPA tasks.
+
+## Repository Structure
+
+### `reference/`
+
+- `Prompt_Engineering_Intro.md`: Core prompt engineering principles, including context constraints, role-based prompting, few-shot patterns, chain-of-thought workflows, and adversarial/self-critique techniques.
+- `LLM_Opportunities.md`: A cross-industry workflow catalog that frames AI as a practical execution engine for synthesis, automation, strategy, communication, and onboarding.
+
+### `example_workshops/`
+
+- `CPA_Examples.md`: Side-by-side "Lazy Prompt" vs "Engineered Prompt" examples for common accounting tasks like tax communication, trial balance cleanup, audit support, and memo review.
+- `CPA_Potential_Workflow_Helepers.md`: CPA-focused workflow catalog with high-leverage use cases in communications, technical research, audit, Excel/formula engineering, automation, and practice management.
+
+## How To Use This Repository
+
+- Start with `reference/Prompt_Engineering_Intro.md` to understand the reasoning behind prompt structure.
+- Read `reference/LLM_Opportunities.md` to identify where AI can remove repetitive work in your own function.
+- Move to `example_workshops/CPA_Examples.md` for concrete prompt upgrades you can adapt immediately.
+- Use `example_workshops/CPA_Potential_Workflow_Helepers.md` as an idea bank when designing team workflows or workshop exercises.
+
+## Suggested Workshop Flow
+
+- Module 1: Prompt engineering fundamentals and failure modes.
+- Module 2: Workflow design and tool selection (chat, spreadsheet formulas, scripts).
+- Module 3: Domain examples with before/after prompt rewrites.
+- Module 4: Quality control using verification, adversarial review, and constraints.
+
+## Quick Access
+
+Scan this QR code to open the repository:
 
 ![Repository QR Code](repo_qr.png)
 
-Direct link (kept here for copy/paste and click-through):
+Direct link:
 https://github.com/tswarmLCCC/Prompt-Engineering-Workshops
-
-## What We Have Done So Far
-
-This workspace has gone through a structured Markdown formatting and readability pass, followed by quick-access sharing improvements.
-
-### 1. Markdown Structure Upgrades (Content Preserved)
-
-We reformatted multiple files to use clean, consistent Markdown conventions while intentionally preserving all original wording and meaning.
-
-The improvements included:
-- Converting plain text titles into proper Markdown heading levels (`#`, `##`, `###`).
-- Turning section labels into consistently emphasized markers (for example: **The Problem**, **Engineered Prompt**, **The Improvement**, **Workflow**, **Prompt Example**).
-- Standardizing spacing between sections and paragraphs for easier scanning.
-- Converting eligible inline sequences into proper Markdown list structures where helpful.
-- Keeping the text itself unchanged so no instructional content was altered.
-
-Files formatted in this pass:
-- `reference/Prompt_Engineering_Intro.md`
-- `example_workshops/CPA_Examples.md`
-- `example_workshops/CPA_Potential_Workflow_Helepers.md`
-- `reference/LLM_Opportunities.md`
-
-### 2. Repository QR Code Creation
-
-We generated a QR code image that points to this repository:
-
-`https://github.com/tswarmLCCC/Prompt-Engineering-Workshops`
-
-Created asset:
-- `repo_qr.png`
-
-Purpose:
-- Make the repo instantly shareable on slides, printed handouts, and workshop materials.
-- Provide a quick mobile entry point without typing the URL.
-
-### 3. Documentation Consolidation in README
-
-This README now acts as a single launch point for workshop navigation by:
-- Keeping the direct repository URL visible.
-- Embedding the QR code image for immediate scanning.
-- Recording the completed formatting and documentation work in one place.
-
-### Current Result
-
-The repository is now easier to consume in three ways:
-- Better readability of workshop/reference guides through consistent Markdown structure.
-- Faster access via a visible URL and scannable QR code.
-- Clear project-state documentation summarizing what has already been completed.
