@@ -78,6 +78,10 @@ This involves "red-teaming" your own prompts to prevent hallucinations, biases, 
 
 **Techniques:**
 
+## Appendix
+
+**AI Can look like Magic**  Seeing the product of expert use of modern tools can be mystifying.  Please remember that you are likely seeing the result of many smaller structured parts to that end result.  When you hear or see a structured prompt, it does indeed appear simple,and it should be, but there is a method to that madness.  Start small and get comfortable with these techniques and you'll be the one 'teaching' this mystical technique in no time at all.  There is a lot of good learning to be had by just going out and trying different things with different LLM based tools and seeing what does and doesn't work.  Hopefully, arming yourself with these tools can help guide you in the right direction as to what to try to improve next!
+
 - Self-Critique: "Review your previous answer. Flag any IRC sections cited that do not exist. If you are unsure, label it [VERIFICATION REQUIRED]."
 - Adversarial Example: "Act as a skeptical IRS Agent. Review the following business expense justification and find three reasons why this deduction should be disallowed under current tax law."
 
